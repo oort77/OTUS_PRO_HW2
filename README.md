@@ -1,5 +1,8 @@
-### OTUS_PRO_HW2
-#### OTUS.ML_PRO Homework #2
+![animals-transparent](https://user-images.githubusercontent.com/73858914/148969208-90c4c165-61d6-4d6f-a766-5fd3e91a63a5.png)
+**OTUS Machine Learning Professional**
+### **Homework 2** 
+
+#### Clustering and dimensionality reduction
 
 **Goals:**  
 - Apply k-means, hierarhical и DBSCAN clustering methods to "German Credit Risk" dataset  
@@ -14,6 +17,8 @@ German Credit Risk https://www.kaggle.com/uciml/german-credit
 
 **Means:**
 
-All meaningful programming will be done in sklearn.  
+All meaningful programming will be done in sklearn and pandas.  
 ATOM library is used for preprocessing:  
 https://tvdboom.github.io/ATOM/about/
+
+<a href="https://colab.research.google.com/github/oort77/OTUS_PRO_HW2/blob/main/otus_pro_hw2_sklearn.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> 
