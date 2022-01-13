@@ -10,6 +10,15 @@
 - Try feature space compression with PCA, UMAP and tSNE, visualize data in 2D  
 - Interpret results: cluster means etc.  
 - Find differences in clusters with boxplots of features  
+- Goals:
+
+**Additional goals**:
+
+- Explore other clustering models (GMM)
+- And other metrics (David-Bouldin score and Bayes information criteria)
+- Have a look at 3d possibilities of TSNE and UMAP
+- Come up with auxiliary measures of clustering quality
+- Explore dependence of clustering outcomes of preprocessing methods
 
 **Dataset:**  
 
