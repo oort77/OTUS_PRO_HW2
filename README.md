@@ -18,7 +18,7 @@
 - And other metrics (David-Bouldin score and Bayes information criteria)
 - Have a look at 3d possibilities of TSNE and UMAP
 - Come up with auxiliary measures of clustering quality
-- Explore dependence of clustering outcomes of preprocessing methods
+- Explore dependence of clustering outcomes on preprocessing methods
 
 **Dataset:**  
 
